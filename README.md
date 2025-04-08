@@ -1,1 +1,2 @@
-# ei-hypr
+im tired from liquid smooth slow animations so...
+feel ENERGY IMPULSE on your machine!
