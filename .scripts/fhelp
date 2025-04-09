@@ -1,0 +1,8 @@
+#!/bin/fish
+echo "keybinds > "
+echo " + RETURN > SPAWN TERMINAL"
+echo " + SPACE > SPAWN APP LAUNCHER"
+echo " + Q > KILL FOCUSED WINDOW"
+echo " + 1-10 > MOVE TO WORKSPACE FROM 1 to 10"
+echo " + SHIFT + 1-10 > MOVE WINDOW TO WORKSPACE FROM 1 to 10"
+echo "PRTSCN > SCREENSHOT"
